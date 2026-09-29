@@ -117,3 +117,7 @@ thead{
     flex-shrink: 0;
     
 }
+
+ul{
+    font-size: 12px;
+}
